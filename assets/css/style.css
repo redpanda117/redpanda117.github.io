@@ -85,6 +85,8 @@ form{
 	float: left;
 	padding-top: 20px;
 	padding-right: 20px;
+	width:250px;
+	height:200px;
 }
 .bio{
 	clear: both;
